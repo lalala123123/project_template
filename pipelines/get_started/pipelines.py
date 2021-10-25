@@ -2,7 +2,7 @@ from azure.ml.component import dsl, Pipeline
 from subgraphs.train_score_eval import sub_training_pipeline
 
 from ..components._workspace import from_config
-from ..utils import generate_pipeline_component
+from ..utils.utils import generate_pipeline_component
 
 ws = from_config()
 
