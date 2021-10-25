@@ -1,5 +1,6 @@
 
 ```commandline
+<<<<<<< HEAD
 ├───.github
 │   └───workflow                  # Yaml file of github workflow.
 ├───.azure_pipeline               # Yaml file of azure pipeline.
