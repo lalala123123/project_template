@@ -8,6 +8,6 @@ assets = {
     ],
 }
 
-source_dir = '../'
-dsl.generate_package(force_regenerate=True, assets=assets, package_name='.',
+source_dir = '.'
+dsl.generate_package(force_regenerate=True, assets=assets, package_name='ml-sample',
                      source_directory=source_dir, mode='snapshot')
