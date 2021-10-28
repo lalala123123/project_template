@@ -21,9 +21,20 @@
 │       │       └───0.0.1
 │       └───pipelines             # Store the pipeline code
 │           ├───assets        # The generate package code of assets.
-│           │       _assets.py
-│           │       _workspace.py
-│           │       __init__.py
+│           │   │   __init__.py
+│           │   │   assets.yaml
+│           │   ├───dummy_pipeline  # Asset of the generated package
+│           │   │      __init__.py
+│           │   │      _assets.py
+│           │   │      _workspace.py
+│           │   ├───get_started    # Asset of the generated package
+│           │   │      __init__.py
+│           │   │      _assets.py
+│           │   │      _workspace.py
+│           │   └───large_graph    # Asset of the generated package
+│           │          __init__.py
+│           │          _assets.py
+│           │          _workspace.py
 │           ├───dummy_pipeline
 │           │   │   pipeline.py   # Pipeline code.
 │           │   │   __init__.py
