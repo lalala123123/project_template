@@ -2,28 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8df7c56-12e1-4804-8ba1-a2501ab95a50" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.github/workflows/generate_packages_rst.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../components/copy_files/component_no_args.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../components/copy_files/component_spec.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../components/copy_files/copy_files.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../components/copy_files/module.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../components/hdi-component/component_spec.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../components/hdi-component/component_test.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../components/hdi-component/module_test.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../components/hdi-component/train-spark.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../components/mpi/component_spec.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../components/mpi/module.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../components/scope_component/toss/component_spec.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../components/scope_component/toss/convert2ss.script" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../components/scope_component/toss_is_resource/component_spec.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../components/scope_component/toss_is_resource/convert2ss.script" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../components/sweep_component/component_spec.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../components/sweep_component/train.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../components/sweep_component/train.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../generate_package.py" beforeDir="false" afterPath="$PROJECT_DIR$/../generate_package.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,5 +74,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

@@ -20,7 +20,7 @@
 │       │   └───wikicenteredclustering
 │       │       └───0.0.1
 │       └───pipelines             # Store the pipeline code
-│           ├───components        # The generate package code of assets.
+│           ├───assets        # The generate package code of assets.
 │           │       _assets.py
 │           │       _workspace.py
 │           │       __init__.py
